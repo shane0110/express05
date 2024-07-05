@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "express05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "shane",
+  "license": "ISC",
+  "description": "glitch test hosting",
+  "directories": {
+    "express": "^4.19.2"
+  }
+}
